@@ -4,5 +4,5 @@
 #### 1. DESCARGAR yarn para el manejo de dependencias
 #### 2. Descargar 
 #### 3. Para crear nuestra app, primero debemos inciar el siguiente comando , para usar TypeScript : 
-#### npx create-react-app instacool --script-version-react-scripts-ts
+#### npx create-react-app instacool --script-version=react-scripts-ts
 
